@@ -1,0 +1,11 @@
+Step 1: Run pip install mlflow
+Type: pip install --user mlflow
+
+Step 2: Verify that MLflow is installed
+Type: python -m mlflow --version
+
+Step 3: Go to the Scripts folder where the mlflow command is located
+Type: cd C:\Users\cui\AppData\Roaming\Python\Python39\Scripts
+
+Step 4: Start the MLflow UI
+Type: mlflow ui
